@@ -4,9 +4,12 @@
 https://hackmd.io/@smallshawn95/vscode_write_py
 
 ## 2. Install some required package
-```py -m pip install ftd2xx```
-
-```py -m pip install tkinter```
+```
+py -m pip install ftd2xx
+```
+```
+py -m pip install tkinter
+```
 
 **Copy and paste on the terminal**
 
