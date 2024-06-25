@@ -17,4 +17,4 @@ py -m pip install tk
 
 ## 4. Connect the FT232 chip to your computer and make sure your computer recognize it
 
-## 4. You can execute the program
+## 5. You can execute the program
