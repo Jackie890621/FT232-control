@@ -10,7 +10,7 @@ https://hackmd.io/@smallshawn95/vscode_write_py
 py -m pip install ftd2xx
 ```
 ```
-py -m pip install tkinter
+py -m pip install tk
 ```
 
 **Copy and paste on the terminal**
